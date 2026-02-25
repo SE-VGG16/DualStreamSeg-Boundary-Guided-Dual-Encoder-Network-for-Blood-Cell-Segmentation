@@ -1,0 +1,1 @@
+Here we train ResNet18 model on blood Cell dataset https://www.kaggle.com/datasets/jeetblahiri/bccd-dataset-with-mask by using pretrained model of Resnet18.
