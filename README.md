@@ -1,6 +1,5 @@
 # DualStreamSeg-Boundary-Guided-Dual-Encoder-Network-for-Blood-Cell-Segmentation
 DualStreamSeg: Boundary-Guided Dual-Encoder Network for Blood Cell Segmentation
-# DualStreamSeg: Boundary-Guided Dual-Encoder Network for Blood Cell Segmentation
 
 
 Official PyTorch implementation of the DualStreamSeg model for accurate and efficient blood cell segmentation.
