@@ -51,8 +51,8 @@ python test.py --model pretrained/model.pth --image test.png
 
 | Model | Parameters (M) | Size (MB) | FLOPs (G) | Dice (%) | Accuracy (%) |
 |------|----------------|-----------|-----------|----------|--------------|
-| U-Net | 7.76 | 30 | 15.2 | 94.85 | 97.31 |
-| Attention U-Net | 10.4 | 140 | 18.1 | 94.51 | 96.78 |
+| U-Net | 31.04 | 108.4 | 54.61 | 94.91 | 97.35 |
+| Resnet50-Unet | 39 | 150 | 50.1 | 94.51 | 96.78 |
 | DeepLabV3-ResNet50 | 39.6 | 150 | 48.7 | 94.69 | 97.03 |
 | nnU-Net | 32 | 160 | 50 | 94.79 | 97.26 |
 | TransUNet | 105 | 400 | 85.3 | 94.88 | 97.34 |
